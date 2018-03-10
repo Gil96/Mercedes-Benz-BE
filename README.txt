@@ -11,7 +11,7 @@ Projecto feito em JAVA(eclipse) usando o Maven como gestão do projecto.
 Instruçoes:
 
 1- Se necessário alterar o caminho para o dataset.json no ficheiro pom em <argument>...</argument> que está na pasta de origem.
-2- Abrir terminal
+2- Abrir terminal na diretoria do projecto
 3- lançar comando -mvn clean
 4- lançar comando -mvn compile
 5- lançar comando -mvn exec:java
