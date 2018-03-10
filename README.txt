@@ -18,8 +18,7 @@ Instruçoes:
 
 Nota:
 
-->Não foram implementados nenhuns testes / funcionalidades porém toda a leitura do ficheiro json e a criação dos seus objectos 
-foi feita.
+->Não foram implementados nenhuns testes / funcionalidades porém toda a leitura do ficheiro json e a criação dos seus objectos foi feita.
 
 Tentem fazer o máximo que pude mas infelizmente por falta de tempo não consegui concluir o desafio proposto.
 Espero que compreendam...
